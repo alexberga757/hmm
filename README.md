@@ -2,6 +2,7 @@
 
 ```javascript
 
+//encode
 function ec_(str) {
     const s = str.split('');
     let e = "";
@@ -22,6 +23,7 @@ function ec_(str) {
 
     
 }
+//decode
 function de_(str) {
 	const s = str.split('b');
 	let e =  "";
