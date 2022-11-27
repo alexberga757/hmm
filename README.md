@@ -52,6 +52,8 @@ function de_(str) {
 
 ```
 
+#v2.0
+
 ```javascript
 
 function encode(content) {
