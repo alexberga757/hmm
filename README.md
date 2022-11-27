@@ -1,7 +1,14 @@
 # hmm
 
 ```javascript
+/*
+plain text encryption v1.0
+make by: lê ngọc cương
+carrd: lengoccuong.carrd.co
+discord: https://discord.gg/WGckkSyupg
+*/
 
+//encode
 function ec_(str) {
     const s = str.split('');
     let e = "";
@@ -22,6 +29,7 @@ function ec_(str) {
 
     
 }
+//decode
 function de_(str) {
 	const s = str.split('b');
 	let e =  "";
