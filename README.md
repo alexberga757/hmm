@@ -1,4 +1,4 @@
-# hmm
+# demb
 
 ```javascript
 /*
@@ -55,7 +55,12 @@ function de_(str) {
 # v2.0
 
 ```javascript
-
+/*
+plain text encryption v1.0
+make by: lê ngọc cương
+carrd: lengoccuong.carrd.co
+discord: https://discord.gg/WGckkSyupg
+*/
 function encode(content) {
   const s = content.split('');
   let endToMiddle = "";
